@@ -5,7 +5,7 @@
 ### AI/ML Engineer · Researcher · Data Analyst
 
 <a href="https://linkedin.com/in/tihumkabir"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/Tihum-Kabir/Tihum-Portfolio"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-090909?style=flat-square&logo=vercel&logoColor=white"></a>
+<a href="https://www.tihumkabir.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-090909?style=flat-square&logo=vercel&logoColor=white"></a>
 <a href="mailto:tihumkabir@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 <a href="https://facebook.com/tihum.kabir"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
 <a href="https://instagram.com/kabirrr.t"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
@@ -33,7 +33,7 @@ PostgreSQL), and shipped [Curry House BD](https://curryhousebd.com)'s storefront
 pointing the same build-it-then-break-it habit at data analysis: Python, SQL and Excel instead of
 deployments.
 
-- 🔭 **Currently building:** a [cinematic portfolio site](https://github.com/Tihum-Kabir/Tihum-Portfolio) (Next.js 16, TypeScript, Web Audio)
+- 🔭 **Currently building:** a [cinematic portfolio site](https://www.tihumkabir.com/) (Next.js 16, TypeScript, Web Audio)
 - 🧪 **Currently researching:** explainable AI for clinical imaging (ScintNet-KD, under review)
 - 📊 **Currently learning:** business & data analytics: pandas, SQL, and turning models into decisions
 - 💬 **Ask me about:** knowledge distillation, RAG pipelines, or why your Next.js build is slow
@@ -48,7 +48,7 @@ deployments.
 | [**Law-Enforcement**](https://github.com/Tihum-Kabir/Law-Enforcement) | Python, Jupyter | Exploratory data analysis of law-enforcement records |
 | [**AgriExpert**](https://github.com/Tihum-Kabir/AgriExpert) | HTML, CSS | An agricultural information portal |
 
-*(Full case studies for ScintNet-KD and a bilingual legal RAG chatbot are on my [portfolio](https://github.com/Tihum-Kabir/Tihum-Portfolio).)*
+*(Full case studies for ScintNet-KD and a bilingual legal RAG chatbot are on my [portfolio](https://www.tihumkabir.com/).)*
 
 ## Tech stack
 
